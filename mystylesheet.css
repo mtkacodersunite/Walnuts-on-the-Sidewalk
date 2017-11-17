@@ -1,8 +1,19 @@
-<head>
-<link rel="stylesheet" type="text/css"href="index.html">
-
-</head>
-<body>
+ h1 {
+   color: blue;
+    text-decoration: underline;
 }
-backround-color : blue;
-</body>
+body  {
+    background-image: url("1280x800-data-out-57-3996751-bright-white-wallpaper.jpg");
+    background-size: 1280px 800px;
+}
+
+p  {
+  font-family:cursive;
+  color: black;
+  text-decoration: ;
+}
+li {
+  font-family:cursive;
+  color: black;
+  text-decoration: ;
+}
